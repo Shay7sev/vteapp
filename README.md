@@ -1,4 +1,4 @@
-# vteapp
+# vteapp vite-vue3 typescript element
 
 ## Project setup
 ```
